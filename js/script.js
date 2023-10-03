@@ -1,43 +1,43 @@
-var Danger = {
-    postMessage: function(statusData) {
-        // Implement the logic to handle Danger messages
-        console.log("Danger: " + statusData);
-        // Other code to handle Danger messages
-    }
-};
+// var Danger = {
+//     postMessage: function(statusData) {
+//         // Implement the logic to handle Danger messages
+//         console.log("Danger: " + statusData);
+//         // Other code to handle Danger messages
+//     }
+// };
 
-var Success = {
-    postMessage: function(statusData) {
-        // Implement the logic to handle Danger messages
-        console.log("Success: " + statusData);
-        // Other code to handle Danger messages
-    }
-};
+// var Success = {
+//     postMessage: function(statusData) {
+//         // Implement the logic to handle Danger messages
+//         console.log("Success: " + statusData);
+//         // Other code to handle Danger messages
+//     }
+// };
 
-var Warning = {
-    postMessage: function(statusData) {
-        // Implement the logic to handle Danger messages
-        console.log("Warning: " + statusData);
-        // Other code to handle Danger messages
-    }
-};
+// var Warning = {
+//     postMessage: function(statusData) {
+//         // Implement the logic to handle Danger messages
+//         console.log("Warning: " + statusData);
+//         // Other code to handle Danger messages
+//     }
+// };
 
 
-var Info = {
-    postMessage: function(statusData) {
-        // Implement the logic to handle Danger messages
-        console.log("Info: " + statusData);
-        // Other code to handle Danger messages
-    }
-};
+// var Info = {
+//     postMessage: function(statusData) {
+//         // Implement the logic to handle Danger messages
+//         console.log("Info: " + statusData);
+//         // Other code to handle Danger messages
+//     }
+// };
 
-var Default = {
-    postMessage: function(statusData) {
-        // Implement the logic to handle Danger messages
-        console.log("Default: " + statusData);
-        // Other code to handle Danger messages
-    }
-};
+// var Default = {
+//     postMessage: function(statusData) {
+//         // Implement the logic to handle Danger messages
+//         console.log("Default: " + statusData);
+//         // Other code to handle Danger messages
+//     }
+// };
 
 
 
