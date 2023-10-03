@@ -80,24 +80,24 @@ function DefaultCallback(status) {
 
 
 function handleSuccess() {
-     SuccessCallback(Success);
+     SuccessCallback("Success");
  }
 
 function handleInfo() {
-    InfoCallback(Info);
+    InfoCallback("Info");
 }
 
 
 function handleWarning() {
-    WarningCallback(Warning);
+    WarningCallback("Warning");
 }
 
 function handleDanger() {
-   DangerCallback(Danger);
+   DangerCallback("Danger");
 }
 
 function handleDefault() {
-    DefaultCallback(Default);
+    DefaultCallback("Default");
  }
 
 
